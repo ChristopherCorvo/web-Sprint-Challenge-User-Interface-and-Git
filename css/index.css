@@ -79,6 +79,7 @@ header{
     /* align-items: flex-end; */
     justify-content: center;
     margin-bottom: 3%;
+    margin-top: 2%;
 }
 
 .header-logo{
@@ -196,6 +197,7 @@ nav {
     background-color: dodgerblue;
 }
 
+/* end of box color styling */
 
 .bottom-content {
     display: flex;
