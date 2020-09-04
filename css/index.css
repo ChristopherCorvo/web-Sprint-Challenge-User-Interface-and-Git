@@ -65,7 +65,39 @@ h1, h2, h3, h4, h5 {
 p {
     line-height: 1.4;
 }
+/* New CSS Styles Sprint 1 */
 
+a{
+    text-decoration: none;
+    color: black;
+}
+
+header{
+    background: gray;
+    display: flex;
+    flex-direction: row;
+    /* align-items: flex-end; */
+    justify-content: center;
+    margin-bottom: 3%;
+}
+
+.header-logo{
+    border: 1px solid black;
+    margin-right: 8%;
+}
+
+
+nav {
+    display:flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    width: 45%;
+    align-items: flex-end;
+}
+
+
+
+/* --------------------- */
 .container {
     width: 800px;
     margin: 0 auto;
